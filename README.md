@@ -10,7 +10,7 @@
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, Lua
+- **Programming Languages:** HTML, CSS, JavaScript, Lua, Python
 - **Technologies:** Roblox Studio, Git, GitHub, VSCode, Hosting, Canva
 - **Specialties:** Pentesting, Front-End Development, Community Engagement
 
