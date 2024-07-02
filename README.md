@@ -4,7 +4,7 @@
 
 ## About Me
 
-🌟 **Username:** MR Mob  
+🌟 **Name:** Melquisedec Medina  
 🌟 **Age:** 17  
 🌟 **Developer:** Semi-Senior  
 
