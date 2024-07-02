@@ -1,6 +1,6 @@
 # Hello, I'm mob949k! 👋
 
-[![GitHub Banner](https://github.com/mob949k/Penguin/blob/main/pictures/Black%20and%20White%20Aesthetic%20Fashion%20Designer%20Twitter%20Header.png)](https://github.com/mob949k)
+[![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
 ## About Me
 
@@ -36,9 +36,8 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 ## Contact Me
 
 - **Email:** [mob949k@proton.me](mailto:mob949k@proton.me)
-- **GitHub:** [mob949k](https://github.com/mob949k)
-- **Portfolio:** [mob949k's Portfolio](https://solo.to/mob949k)
 - **Website:** [Penguin Star](https://penguinstarc1.is)
+- **Portfolio:** [mob949k's Portfolio](https://solo.to/mob949k)
 
 ---
 
