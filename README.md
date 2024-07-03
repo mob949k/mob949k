@@ -1,5 +1,4 @@
-# Hello, I'm mob949k! ![Cat]([url_de_la_imagen](https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png))
-
+# Hello, I'm mob949k! ![Cat](https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png)
 
 [![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
