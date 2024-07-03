@@ -1,4 +1,4 @@
-# Hello, I'm mob949k! <img src="https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png" alt="Cat" width="60px" />
+<img src="https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png" alt="Cat" width="60px" /> # Hello, I'm mob949k!
 
 [![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
