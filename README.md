@@ -1,12 +1,13 @@
-# Hello, I'm mob949k! 👋
+# Hello, I'm mob949k! ![Cat]([url_de_la_imagen](https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png))
+
 
 [![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
 ## About Me
 
-🌟 **Name:** Melquisedec Medina  
-🌟 **Age:** 17  
-🌟 **Developer:** Semi-Senior  
+⭐ **Name:** Melquisedec Medina  
+⭐ **Age:** 17  
+⭐ **Developer:** Semi-Senior  
 
 ## Skills
 
@@ -40,8 +41,6 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 - **Portfolio:** [mob949k's Portfolio](https://solo.to/mob949k)
 
 ---
-
-“If the peace is disturbed, may the mind be equally perturbed.”
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mob949k&show_icons=true&theme=dark)
 
