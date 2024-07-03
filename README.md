@@ -22,7 +22,7 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 ## Social Media and Community
 
 - **Discord Server:** [Join my Discord](https://discord.gg/7wGnEZZWCB)
-- **Twitter (X):** [@](https://twitter.com/mob949k)
+- **Twitter (X):** [mob949k on X](https://twitter.com/mob949k)
 - **Twitch:** [mob949k on Twitch](https://twitch.tv/mob949k)
 - **YouTube:** [mob949k's YouTube Channel](https://youtube.com/channel/UCXsuZHydxz7m_tws9G9bbRg)
 - **Roblox:** Follow me on [Roblox](https://www.roblox.com/users/922672130/profile)
