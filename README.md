@@ -1,4 +1,4 @@
-# Hello, I'm mob949k! <img src="https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png" alt="Cat" width="30px" />
+# Hello, I'm mob949k! <img src="https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png" alt="Cat" width="27" />
 
 [![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
@@ -44,5 +44,3 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mob949k&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mob949k&layout=compact&theme=dark)
-
-<input type="text">
