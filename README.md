@@ -36,7 +36,7 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 ## Contact Me
 
 - **Email:** [mob949k@proton.me](mailto:mob949k@proton.me)
-- **Website:** [Penguin Star](https://penguinstarc1.is)
+- **Website:** [Penguin Star](https://penguinstar.whf.bz/)
 - **Portfolio:** [mob949k's Portfolio](https://solo.to/mob949k)
 
 ---
