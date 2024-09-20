@@ -1,8 +1,4 @@
-# Hello, I'm mob949k! <img src="https://cdn3.emoji.gg/emojis/3807-kiisu-cowboy.png" alt="Cat" width="27" />
-
-[![kiisu_cowboy](https://cdn3.emoji.gg/emojis/3807-kiisu-cowboy.png)](https://emoji.gg/emoji/3807-kiisu-cowboy)
-
-[![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
+# Hello, I'm mob949k! [![kiisu_cowboy](https://cdn3.emoji.gg/emojis/3807-kiisu-cowboy.png)](https://emoji.gg/emoji/3807-kiisu-cowboy)
 
 ## About Me
 
