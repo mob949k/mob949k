@@ -1,4 +1,6 @@
-# Hello, I'm mob949k! <img src="https://github.com/mob949k/mob949k/blob/main/cowboy_cat.png" alt="Cat" width="27" />
+# Hello, I'm mob949k! <img src="https://cdn3.emoji.gg/emojis/3807-kiisu-cowboy.png" alt="Cat" width="27" />
+
+[![kiisu_cowboy](https://cdn3.emoji.gg/emojis/3807-kiisu-cowboy.png)](https://emoji.gg/emoji/3807-kiisu-cowboy)
 
 [![GitHub Banner](https://github.com/mob949k/mob949k/blob/main/banner.png)](https://github.com/mob949k)
 
@@ -21,11 +23,7 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 
 ## Social Media and Community
 
-- **Discord Server:** [Join my Discord](https://discord.gg/7wGnEZZWCB)
-- **Twitter (X):** [mob949k on X](https://twitter.com/mob949k)
-- **Twitch:** [mob949k on Twitch](https://twitch.tv/mob949k)
-- **YouTube:** [mob949k's YouTube Channel](https://youtube.com/channel/UCXsuZHydxz7m_tws9G9bbRg)
-- **Roblox:** Follow me on [Roblox](https://www.roblox.com/users/922672130/profile)
+- **Social Links:** [solo.to/mob949k](https://solo.to/mob949k)
 
 ## Achievements
 
@@ -35,7 +33,7 @@ I actively contribute to the [Roblox DevForum](https://devforum.roblox.com/u/mob
 
 ## Contact Me
 
-- **Email:** [mob949k@proton.me](mailto:mob949k@proton.me)
+- **Email:** [mob949k@duck.com](mailto:mob949k@duck.com)
 - **Website:** [Penguin Star](https://penguinstar.whf.bz/)
 - **Portfolio:** [mob949k's Portfolio](https://solo.to/mob949k)
 
