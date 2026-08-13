@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mob949k/mob949k/blob/main/purplejedilogo.png" width="120" alt="Jedi Emblem"/>
+  <img src="https://github.com/mob949k/mob949k/blob/main/assets/ascihand-removebg-preview.png"alt="/>
 </p>
 
 <h3 align="center">Desarrollador Fullstack</h3>
