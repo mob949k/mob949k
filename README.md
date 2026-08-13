@@ -2,7 +2,7 @@
   <img src="https://github.com/mob949k/mob949k/blob/main/assets/ascihand-removebg-preview.png"alt="/>
 </p>
 
-<h3 align="center">Desarrollador Fullstack</h3>
+<h3 align="center">ENGINEER</h3>
 
 ---
 
