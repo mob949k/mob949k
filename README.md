@@ -60,23 +60,3 @@ const perfil = {
 | Auditorías de red autorizadas (WPA/WPA2) | Cracking de hashes con Hashcat | Scripts propios en Python |
 | Reconocimiento y explotación con Kali | Análisis de tráfico con Wireshark | Programas de bajo nivel en C/C++ |
 | Metodologías OWASP | Pruebas de penetración éticas | Automatización de tareas de seguridad |
-
----
-
-## 🌟 Filosofía de Trabajo
-
-> Combino visión estratégica con ejecución técnica: entiendo los sistemas lo suficiente como para protegerlos, y lidero con el ejemplo dentro de cada proyecto en el que participo.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mob949k&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mob949k&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mob949k&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
-</p>
