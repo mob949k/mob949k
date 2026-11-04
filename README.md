@@ -1,62 +1,54 @@
-<p align="center">
-  <img src="https://github.com/mob949k/mob949k/blob/main/assets/ascihand-removebg-preview.png" alt="banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">INGENIERO · ESTRATEGA · LÍDER</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Rompiendo+sistemas+para+entenderlos;Pentesting+%C3%A9tico+%26+seguridad+ofensiva;Python+%7C+C%2B%2B+%7C+C" alt="typing-svg" />
-</p>
+<img src="assets/terminal.svg" alt="Terminal de mob949k: ingeniero, estratega, líder. Ciberseguridad ofensiva y pentesting ético." width="820">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-actively_hacking-00FF41?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+</div>
 
----
+<br>
 
-## 🔥 Sobre Mí
+## `~/sobre-mi`
 
-```javascript
-const perfil = {
-  enfoque: "Ciberseguridad Ofensiva & Pentesting Ético",
-  filosofia: "Pensar como estratega, actuar como ingeniero, liderar como ejemplo",
-  actualmente: [
-    "🔎 Auditando redes propias bajo metodologías de pentesting autorizado",
-    "🧠 Profundizando en cracking de credenciales y análisis de protocolos WPA/WPA2",
-    "⚙️  Construyendo herramientas y scripts propios en Python y C/C++"
-  ]
-};
+```text
+nombre      mob949k
+rol         ingeniero · estratega · líder
+enfoque     ciberseguridad ofensiva & pentesting ético
+filosofía   pensar como estratega, actuar como ingeniero, liderar como ejemplo
 ```
 
----
+## `~/stack`
 
-## 🛡️ Stack Tecnológico
+```text
+lenguajes     python · c · c++
+sistema       kali linux · linux
+herramientas  hashcat · metasploit · wireshark
+metodología   owasp
+entorno       git · vs code
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+## `~/areas`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hashcat-000000?style=for-the-badge&logo=hashcat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-</p>
+```text
+.
+├── seguridad-ofensiva/
+│   ├── auditorías de red autorizadas (WPA/WPA2)
+│   ├── reconocimiento y explotación con kali
+│   └── metodologías OWASP
+├── analisis-y-cracking/
+│   ├── cracking de hashes con hashcat
+│   ├── análisis de tráfico con wireshark
+│   └── pruebas de penetración éticas
+└── desarrollo-de-herramientas/
+    ├── scripts propios en python
+    ├── programas de bajo nivel en c/c++
+    └── automatización de tareas de seguridad
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+<br>
 
----
+<div align="center">
 
-## 🎯 Áreas de Enfoque
+`// todo el trabajo se realiza sobre redes y sistemas propios o con autorización expresa`
 
-| 🔐 Seguridad Ofensiva | 🧩 Análisis & Cracking | 🖥️ Desarrollo de Herramientas |
-|:---:|:---:|:---:|
-| Auditorías de red autorizadas (WPA/WPA2) | Cracking de hashes con Hashcat | Scripts propios en Python |
-| Reconocimiento y explotación con Kali | Análisis de tráfico con Wireshark | Programas de bajo nivel en C/C++ |
-| Metodologías OWASP | Pruebas de penetración éticas | Automatización de tareas de seguridad |
+<sub><i>"Who looks outside, dreams; who looks inside, awakes."</i></sub>
+
+</div>
